@@ -16,17 +16,17 @@ Mi trabajo esta compuesto por un archivo base index.html el cual se encuentra en
 
 Donde encontraras varias carpetas, entre elllas:
 
-# "Assets", que incluye una carpeta llamada "images" y en esta las imágenes para el proyecto.
++"Assets", que incluye una carpeta llamada "images" y en esta las imágenes para el proyecto.
 
-# Font-awesome-4.7.0 con sus respectivas características y los iconos fueron obtenidos de http://fontawesome.io/icons/.
++ Font-awesome-4.7.0 con sus respectivas características y los iconos fueron obtenidos de http://fontawesome.io/icons/.
 
-# La carpeta 'css' se encuentra ubicado el main.css, donde estaran los estilos necesarios para el proyecto.
++ La carpeta 'css' se encuentra ubicado el main.css, donde estaran los estilos necesarios para el proyecto.
 
-# Esta web utiliza 2 tipografías: "Montserrat" y "Lato".
++ Esta web utiliza 2 tipografías: "Montserrat" y "Lato".
 
-# La paleta de colores utilizados en el proyecto son: #2c3e50, #18bc9c, #212529.
++ La paleta de colores utilizados en el proyecto son: #2c3e50, #18bc9c, #212529.
 
-# El subrayado que incluye la estrella en las diversas secciones del sitio,se hicieron con un ícono y pseudoelementos  ":after" y  ":before".
++ El subrayado que incluye la estrella en las diversas secciones del sitio,se hicieron con un ícono y pseudoelementos  ":after" y  ":before".
 
 
 ## A tener en cuenta:
