@@ -6,75 +6,39 @@
 
 ***
 
-Para completar este reto, hemos creado este repositorio boilerplate (plantilla
-inicial) con todos los recursos que necesitas. Esto incluye imágenes y
-estructura de carpetas y archivos donde colocarás tu código.
-
-## Flujo de trabajo
-
-1. Debes realizar un [**fork**](https://gist.github.com/ivandevp/1de47ae69a5e139a6622d78c882e1f74)
-   de este repositorio.
-
-2. Luego deberás **clonar** tu fork en tu máquina. Recuerda que el comando a usar
-   es `git clone` y su estructura normalmente se ve así:
-
-   ```bash
-   git clone https://github.com/<nombre-de-usuario>/freelancer.git
-   ```
-
 ## Objetivo
 
-El reto consiste en replicar el sitio de **Freelancer**, este será el resultado
-a lograr:
+Para realizar este proyecto, el objetivo del trabajo fue el replicar el sitio de Feelancer.
 
-![Freelancer Website](docs/fullpage.png)
+## Detalles de mi Repositorio.
 
-## Consideraciones
+Mi trabajo esta compuesto por un archivo base index.html el cual se encuentra enlazado con el archivo main.css , más un archivo README.md con las caracterÍsticas principales del proyecto.
 
-* Encontrarás un archivo base `index.html` en el cual deberás escribir la
-  estructura de tu proyecto y enlazar tus archivos de estilos (CSS).
+Donde encontraras varias carpetas, entre elllas:
 
-* En la carpeta `css` tendrás un archivo base `main.css` donde agregarás los
-  estilos necesarios para tu proyecto.
+# "Assets", que incluye una carpeta llamada "images" y en esta las imágenes para el proyecto.
 
-* Dentro de la carpeta `assets` se encuentra la carpeta `images` donde
-  encontrarás todas las imágenes necesarias para completar tu proyecto.
+# Font-awesome-4.7.0 con sus respectivas características y los iconos fueron obtenidos de http://fontawesome.io/icons/.
 
-* Deberás **actualizar el archivo `README.md`** explicando el contenido de tu
-  repositorio.
+# La carpeta 'css' se encuentra ubicado el main.css, donde estaran los estilos necesarios para el proyecto.
 
-* Esta web utiliza 2 tipografías: `Montserrat` y `Lato`.
+# Esta web utiliza 2 tipografías: "Montserrat" y "Lato".
 
-* La paleta de colores puedes obtenerla inspeccionado el sitio original, pero
-  para ganar tiempo, puedes usar los siguientes: `#2c3e50`, `#18bc9c`,
-  `#212529`.
+# La paleta de colores utilizados en el proyecto son: #2c3e50, #18bc9c, #212529.
 
-* Los íconos de redes sociales puedes obtenerlos de [Font Awesome](http://fontawesome.io/).
+# El subrayado que incluye la estrella en las diversas secciones del sitio,se hicieron con un ícono y pseudoelementos  ":after" y  ":before".
 
-* Para este reto, encontrarás ciertas cosas que probablemente aun no has visto
-  en clase (formularios). No te preocupes, estamos seguros que lo afrontarás con
-  éxito, de igual forma aquí unos tips:
 
-  - Para el formulario, revisa las etiquetas como `form`, `input`, `button`.
+## A tener en cuenta:
 
-* El subrayado que incluye la estrella en las diversas secciones del sitio, en
-  la web original se hace con un ícono y pseudoelementos (`:after`, `:before`),
-  es un reto entretenido, sin embargo, no trates de enfocarte en esa parte desde
-  un inicio ya que no es el objetivo principal del reto :)
+  El maqueteado esta distribuido de la siguiente manera:
 
-* Puedes ver el [sitio original](https://blackrockdigital.github.io/startbootstrap-freelancer/)
-  para que te des una idea de como debe quedar.
+1.-Un encabezado o Header que se encuentra en la parte superior de la página, compuesto de una barra de navegación fija.
 
-  > Nota: El sitio original tiene ciertos efectos y funcionalidades que
-están fuera del alcance de este reto. Enfócate en obtener la maquetación
-lo más parecido posible, usando lo aprendido en clase ;)
+2.-Luego se divide en 4 secciones, cada una con sus etiquetas, textos e imagenes correspondientes y la última sección con un formulario y su boton.
 
-## A tener en cuenta
 
-Este reto será evaluado sobre lo siguiente:
+3.- Un Footer o pie de página compuesto por 4 partes , entre ellas el lugar, los iconos respectivos donde se encuentra la página y cada uno de ellos con un hover y el texto del Copyright.
 
-* Pixel perfect (replicar el diseño con exactitud)
-* Nombramiento de clases, id, etc
-* Indentación
-* Archivo `README.md` actualizado y correctamente redactado
-* Uso de comentarios para hacer tu código más legible
+<-- Nota: El sitio original tiene ciertos efectos y funcionalidades que están fuera del alcance de este reto, enfocandome en obtener la mejor versíón de maquetación con lo aprendido-->
+ 
